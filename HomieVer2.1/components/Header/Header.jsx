@@ -161,6 +161,7 @@ const Header = () => {
                     ) : (
                       <>
                         <Link href="/login">
+                          <></>
                           <i className="ti-user"></i>
                         </Link>
                       </>
